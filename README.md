@@ -12,8 +12,12 @@
 
 ![Fluk Code's github Stats](https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true&line_height=28&theme=great-gatsby) ![Fluk Code's four top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluk-code&layout=demo&langs_count=4&hide_title=true&theme=great-gatsby)
 
-
-[![Linkedin Felipe Ferreira](https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&color=blue)](https://www.linkedin.com/in/ferreirafelipericardo) [![Linkedin Felipe Ferreira](https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red)](mailto:ferreirafelipericardo@gmail.com)
+<a href="mailto:ferreirafelipericardo@gmail.com">
+  <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
+</a>
+<a href="https://www.linkedin.com/in/ferreirafelipericardo">
+  <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&color=blue&logoColor=white" >
+</a>
 
 ----------------------------------
 # Salut Munde! Je m'appelle Ferreira Felipe. 
