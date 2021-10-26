@@ -19,4 +19,5 @@
 </a>
 
 ----------------------------------
-<img alt="Fluk Code's github Stats" align="left" target="_blank" src="https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true&line_height=28&theme=great-gatsby" ><img alt="Fluk Code's four top langs" align="right" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluk-code&layout=demo&langs_count=4&hide_title=true&theme=great-gatsby" >
+<img alt="Fluk Code's four top langs" align="right" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluk-code&layout=demo&langs_count=4&hide_title=true&theme=great-gatsby" >
+<img alt="Fluk Code's github Stats" align="right" target="_blank" src="https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true&line_height=28&theme=great-gatsby" >
