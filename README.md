@@ -1,10 +1,17 @@
-![Fluk Code GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true)
-
 # Hello Word! I'm Felipe Ferreira.
 
 ### About me.
+- 💻 I'm currently working as HelpDesk @VRSoftware
 - 👨‍🎓 I'm studying software analysis and development at UNIP university.
-- 📖 I intend to specialize in web development
+- 📖 I intend to specialize in web development fullstack with javascript
+
+#### Languages
+- 🇧🇷 Portuguese: Native language
+- 🇫🇷 French    : Fun fact: I was a soldier of the French foreign legion for two years
+- 🇺🇸 English   : I started studying a short time ago
+
+![Fluk Code's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true&line_height=28&theme=merko)[![Fluk Code's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluk-code&layout=demo&langs_count=4&hide_title=true&theme=merko)](https://github.com/fluk-code/github-readme-stats)
+
 
 ----------------------------------
 # Salut Munde! Je m'appelle Ferreira Felipe. 
