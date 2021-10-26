@@ -1,4 +1,4 @@
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true)
+![Fluk Code GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluk-code&show_icons=true)
 
 # Hello Word! I'm Felipe Ferreira.
 
