@@ -1,9 +1,9 @@
 # Hello Word! I'm Felipe Ferreira.
 <a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
-  <img alt="Portuguese Profile" target="_blank" src="https://img.shields.io/badge/Poruguese-green" >
+  <img alt="Portuguese Profile" target="_blank" src="https://img.shields.io/badge/Português-green" >
 </a>
 <a href="https://github.com/fluk-code/Fluk-Code-Fr/">
-  <img alt="French Profile" target="_blank" src="https://img.shields.io/badge/French-blue" >
+  <img alt="French Profile" target="_blank" src="https://img.shields.io/badge/Français-blue" >
 </a>
 
 ### About me.
@@ -18,7 +18,7 @@
   <img alt="Linkedin Felipe Ricardo Ferreira" target="_blank" src="https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&color=blue&logoColor=white" >
 </a> 
 <a href="https://fluk-code.github.io/">
-  <img alt="Pagina pessoal" target="_blank" src="https://img.shields.io/badge/-Git Page-060606?style=for-the-badge&labelColor=0D0D0D&logo=Github&color=blueviolet&logoColor=white" >
+  <img alt="Profile personal" target="_blank" src="https://img.shields.io/badge/-Git Page-060606?style=for-the-badge&labelColor=0D0D0D&logo=Github&color=blueviolet&logoColor=white" >
 </a> 
 
 ----------------------------------
