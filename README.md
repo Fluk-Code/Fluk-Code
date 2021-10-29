@@ -1,8 +1,8 @@
 # Hello Word! I'm Felipe Ferreira.
-<a href="#">
+<a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
   <img alt="Portuguese Profile" target="_blank" src="https://img.shields.io/badge/Poruguese-green" >
 </a>
-<a href="#">
+<a href="https://github.com/fluk-code/Fluk-Code-Fr/">
   <img alt="French Profile" target="_blank" src="https://img.shields.io/badge/French-blue" >
 </a>
 
